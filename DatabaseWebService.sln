@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseWebService", "DatabaseWebService.csproj", "{FFEB484D-A2BA-4F5A-BE95-F45A9A1103BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFEB484D-A2BA-4F5A-BE95-F45A9A1103BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEB484D-A2BA-4F5A-BE95-F45A9A1103BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFEB484D-A2BA-4F5A-BE95-F45A9A1103BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFEB484D-A2BA-4F5A-BE95-F45A9A1103BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4A00EF5-3B80-4632-B77E-8320CCD00BFA}
+	EndGlobalSection
+EndGlobal

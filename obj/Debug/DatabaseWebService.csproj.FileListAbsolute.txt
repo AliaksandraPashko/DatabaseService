@@ -1,0 +1,10 @@
+C:\Users\aliaksandra\source\repos\DatabaseWebService\bin\DatabaseWebService.dll.config
+C:\Users\aliaksandra\source\repos\DatabaseWebService\bin\DatabaseWebService.dll
+C:\Users\aliaksandra\source\repos\DatabaseWebService\bin\DatabaseWebService.pdb
+C:\Users\aliaksandra\source\repos\DatabaseWebService\obj\Debug\DatabaseWebService.csprojResolveAssemblyReference.cache
+C:\Users\aliaksandra\source\repos\DatabaseWebService\obj\Debug\DatabaseWebService.csproj.CoreCompileInputs.cache
+C:\Users\aliaksandra\source\repos\DatabaseWebService\obj\Debug\DatabaseWebService.dll
+C:\Users\aliaksandra\source\repos\DatabaseWebService\obj\Debug\DatabaseWebService.pdb
+C:\Users\aliaksandra\source\repos\DatabaseWebService\bin\Newtonsoft.Json.dll
+C:\Users\aliaksandra\source\repos\DatabaseWebService\bin\Newtonsoft.Json.xml
+C:\Users\aliaksandra\source\repos\DatabaseWebService\obj\Debug\DatabaseWebService.csproj.CopyComplete
